@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<a href="https://styled-components.com//" target="_blank"><img src="https://img.shields.io/badge/styled-components
+-DB7093?style=flat&logo=styled-components
+&logoColor=white"/></a>
 <br />
 <br />
 <br />
