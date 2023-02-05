@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://codingpracticenote.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-000000?style=for-the-badge&logo=Tistory&logoColor=#ffffff"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=Tistory&logoColor=#ffffff"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Tistory&logoColor=#ffffff"/></a>
 <br />
 <br />
 <br />
