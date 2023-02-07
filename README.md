@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 -DB7093?style=flat&logo=styled-components&logoColor=white"/></a> -->
 <br />
 <br />
-<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escape-engineering&show_icons=true&theme=radical)
 <br />
