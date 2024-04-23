@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=http://codingpracticenote.tistory.com/187>24.04.22  조건부 연산자,</a></br><a href=http://codingpracticenote.tistory.com/186>24.04.21 if, switch 조건문</a></br><a href=http://codingpracticenote.tistory.com/185>HTML 의 inline 요소와 block 요소의 차이점을 설명해주세요. 예시도 들어주세요</a></br><a href=http://codingpracticenote.tistory.com/184>Redux 상태관리의 주요 개념들과 연결 관계를 설명해주세요. 다른 상태관리 도구와 비교 설명 해주세요</a></br><a href=http://codingpracticenote.tistory.com/183>Semantic HTML의 필요성을 예시를 들어 설명해주세요.</a></br>
+<a href=https://codingpracticenote.tistory.com/187>24.04.22  조건부 연산자,</a></br><a href=https://codingpracticenote.tistory.com/186>24.04.21 if, switch 조건문</a></br><a href=https://codingpracticenote.tistory.com/185>HTML 의 inline 요소와 block 요소의 차이점을 설명해주세요. 예시도 들어주세요</a></br><a href=https://codingpracticenote.tistory.com/184>Redux 상태관리의 주요 개념들과 연결 관계를 설명해주세요. 다른 상태관리 도구와 비교 설명 해주세요</a></br><a href=https://codingpracticenote.tistory.com/183>Semantic HTML의 필요성을 예시를 들어 설명해주세요.</a></br>
