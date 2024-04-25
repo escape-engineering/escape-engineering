@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/189>24.04.24 for in, for of 반복문</a></br><a href=https://codingpracticenote.tistory.com/188>24.04.23 배열, 자료의 비파괴와 파괴</a></br><a href=https://codingpracticenote.tistory.com/187>24.04.22  삼항 연산자, 짧은 조건문</a></br><a href=https://codingpracticenote.tistory.com/186>24.04.21 if, switch 조건문</a></br><a href=https://codingpracticenote.tistory.com/185>HTML 의 inline 요소와 block 요소의 차이점을 설명해주세요. 예시도 들어주세요</a></br>
+<a href=https://codingpracticenote.tistory.com/190>24.04.25 while반복문</a></br><a href=https://codingpracticenote.tistory.com/189>24.04.24 for in, for of 반복문</a></br><a href=https://codingpracticenote.tistory.com/188>24.04.23 배열, 자료의 비파괴와 파괴</a></br><a href=https://codingpracticenote.tistory.com/187>24.04.22  삼항 연산자, 짧은 조건문</a></br><a href=https://codingpracticenote.tistory.com/186>24.04.21 if, switch 조건문</a></br>
