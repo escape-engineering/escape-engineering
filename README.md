@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/190>24.04.25 while반복문</a></br><a href=https://codingpracticenote.tistory.com/189>24.04.24 for in, for of 반복문</a></br><a href=https://codingpracticenote.tistory.com/188>24.04.23 배열, 자료의 비파괴와 파괴</a></br><a href=https://codingpracticenote.tistory.com/187>24.04.22  삼항 연산자, 짧은 조건문</a></br><a href=https://codingpracticenote.tistory.com/186>24.04.21 if, switch 조건문</a></br>
+<a href=https://codingpracticenote.tistory.com/191>24.04.26 익명함수와 선언적함수</a></br><a href=https://codingpracticenote.tistory.com/190>24.04.25 while반복문</a></br><a href=https://codingpracticenote.tistory.com/189>24.04.24 for in, for of 반복문</a></br><a href=https://codingpracticenote.tistory.com/188>24.04.23 배열, 자료의 비파괴와 파괴</a></br><a href=https://codingpracticenote.tistory.com/187>24.04.22  삼항 연산자, 짧은 조건문</a></br>
