@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/193>24.04.28 콜백함수</a></br><a href=https://codingpracticenote.tistory.com/192>24.04.27 나머지 매개변수</a></br><a href=https://codingpracticenote.tistory.com/191>24.04.26 익명함수와 선언적함수</a></br><a href=https://codingpracticenote.tistory.com/190>24.04.25 while반복문</a></br><a href=https://codingpracticenote.tistory.com/189>24.04.24 for in, for of 반복문</a></br>
+<a href=https://codingpracticenote.tistory.com/194>24.04.29 화살표함수</a></br><a href=https://codingpracticenote.tistory.com/193>24.04.28 콜백함수</a></br><a href=https://codingpracticenote.tistory.com/192>24.04.27 나머지 매개변수</a></br><a href=https://codingpracticenote.tistory.com/191>24.04.26 익명함수와 선언적함수</a></br><a href=https://codingpracticenote.tistory.com/190>24.04.25 while반복문</a></br>
