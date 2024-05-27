@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/211>짝수의 합</a></br><a href=https://codingpracticenote.tistory.com/210>두 수의 나눗셈</a></br><a href=https://codingpracticenote.tistory.com/209>24.05.27 React 트랙을 신청한 이유</a></br><a href=https://codingpracticenote.tistory.com/208>Prop Drilling이란?</a></br><a href=https://codingpracticenote.tistory.com/207>JSX에서 지켜야 할 5가지</a></br>
+<a href=https://codingpracticenote.tistory.com/212>배열의 평균값</a></br><a href=https://codingpracticenote.tistory.com/211>짝수의 합</a></br><a href=https://codingpracticenote.tistory.com/210>두 수의 나눗셈</a></br><a href=https://codingpracticenote.tistory.com/209>24.05.27 React 트랙을 신청한 이유</a></br><a href=https://codingpracticenote.tistory.com/208>Prop Drilling이란?</a></br>
