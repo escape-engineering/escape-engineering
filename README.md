@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/214>24.05.28 display: flex</a></br><a href=https://codingpracticenote.tistory.com/213>자연수 뒤집기</a></br><a href=https://codingpracticenote.tistory.com/212>배열의 평균값</a></br><a href=https://codingpracticenote.tistory.com/211>짝수의 합</a></br><a href=https://codingpracticenote.tistory.com/210>두 수의 나눗셈</a></br>
+<a href=https://codingpracticenote.tistory.com/215>24.05.29 display: flex (2)</a></br><a href=https://codingpracticenote.tistory.com/214>24.05.28 display: flex</a></br><a href=https://codingpracticenote.tistory.com/213>자연수 뒤집기</a></br><a href=https://codingpracticenote.tistory.com/212>배열의 평균값</a></br><a href=https://codingpracticenote.tistory.com/211>짝수의 합</a></br>
