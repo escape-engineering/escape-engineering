@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/219>24.06.03 JS 톺아보기</a></br><a href=https://codingpracticenote.tistory.com/218>24.05.31 배열과 연결 리스트(NodeList)</a></br><a href=https://codingpracticenote.tistory.com/217>문자열 다루기 기본</a></br><a href=https://codingpracticenote.tistory.com/216>24.05.30 TDZ와 Hoisting, var let const</a></br><a href=https://codingpracticenote.tistory.com/215>24.05.29 display: flex (2)</a></br>
+<a href=https://codingpracticenote.tistory.com/220>시저암호</a></br><a href=https://codingpracticenote.tistory.com/219>24.06.03 JS 톺아보기</a></br><a href=https://codingpracticenote.tistory.com/218>24.05.31 배열과 연결 리스트(NodeList)</a></br><a href=https://codingpracticenote.tistory.com/217>문자열 다루기 기본</a></br><a href=https://codingpracticenote.tistory.com/216>24.05.30 TDZ와 Hoisting, var let const</a></br>
