@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/225>카드 뭉치</a></br><a href=https://codingpracticenote.tistory.com/224>24.06.07 PostgreSQL</a></br><a href=https://codingpracticenote.tistory.com/223>24.06.05 new Set()</a></br><a href=https://codingpracticenote.tistory.com/222>콜라문제</a></br><a href=https://codingpracticenote.tistory.com/221>24.06.04 콘솔 적극 활용하기</a></br>
+<a href=https://codingpracticenote.tistory.com/226>24.06.10 숫자기억게임 페이지 만들기</a></br><a href=https://codingpracticenote.tistory.com/225>카드 뭉치</a></br><a href=https://codingpracticenote.tistory.com/224>24.06.07 PostgreSQL</a></br><a href=https://codingpracticenote.tistory.com/223>24.06.05 new Set()</a></br><a href=https://codingpracticenote.tistory.com/222>콜라문제</a></br>
