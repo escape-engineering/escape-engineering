@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/229>24.06.12 리액트 css 적용하기 + 컴포넌트 분리하기 + export default</a></br><a href=https://codingpracticenote.tistory.com/228>소수 만들기</a></br><a href=https://codingpracticenote.tistory.com/227>24.06.11 리액트 시작하기</a></br><a href=https://codingpracticenote.tistory.com/226>24.06.10 숫자기억게임 페이지 만들기</a></br><a href=https://codingpracticenote.tistory.com/225>카드 뭉치</a></br>
+<a href=https://codingpracticenote.tistory.com/230>24.06.13 기사단원의 무기</a></br><a href=https://codingpracticenote.tistory.com/229>24.06.12 리액트 css 적용하기 + 컴포넌트 분리하기 + export default</a></br><a href=https://codingpracticenote.tistory.com/228>소수 만들기</a></br><a href=https://codingpracticenote.tistory.com/227>24.06.11 리액트 시작하기</a></br><a href=https://codingpracticenote.tistory.com/226>24.06.10 숫자기억게임 페이지 만들기</a></br>
