@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/231>옹알이(2)</a></br><a href=https://codingpracticenote.tistory.com/230>24.06.13 기사단원의 무기</a></br><a href=https://codingpracticenote.tistory.com/229>24.06.12 리액트 css 적용하기 + 컴포넌트 분리하기 + export default</a></br><a href=https://codingpracticenote.tistory.com/228>소수 만들기</a></br><a href=https://codingpracticenote.tistory.com/227>24.06.11 리액트 시작하기</a></br>
+<a href=https://codingpracticenote.tistory.com/232>24.06.17 한식 메뉴 렌더링하기</a></br><a href=https://codingpracticenote.tistory.com/231>옹알이(2)</a></br><a href=https://codingpracticenote.tistory.com/230>24.06.13 기사단원의 무기</a></br><a href=https://codingpracticenote.tistory.com/229>24.06.12 리액트 css 적용하기 + 컴포넌트 분리하기 + export default</a></br><a href=https://codingpracticenote.tistory.com/228>소수 만들기</a></br>
