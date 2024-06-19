@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/234>24.06.18 할 일 목록 만들기</a></br><a href=https://codingpracticenote.tistory.com/233>숫자짝꿍</a></br><a href=https://codingpracticenote.tistory.com/232>24.06.17 한식 메뉴 렌더링하기</a></br><a href=https://codingpracticenote.tistory.com/231>옹알이(2)</a></br><a href=https://codingpracticenote.tistory.com/230>24.06.13 기사단원의 무기</a></br>
+<a href=https://codingpracticenote.tistory.com/235>24.06.19 할 일 목록 만들기 코드 리팩토링</a></br><a href=https://codingpracticenote.tistory.com/234>24.06.18 할 일 목록 만들기</a></br><a href=https://codingpracticenote.tistory.com/233>숫자짝꿍</a></br><a href=https://codingpracticenote.tistory.com/232>24.06.17 한식 메뉴 렌더링하기</a></br><a href=https://codingpracticenote.tistory.com/231>옹알이(2)</a></br>
