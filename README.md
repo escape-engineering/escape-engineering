@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/241>24.06.24 리액트의 Batching이란 무엇인가</a></br><a href=https://codingpracticenote.tistory.com/240>24.06.21 TodoList 페이지 기능추가하기</a></br><a href=https://codingpracticenote.tistory.com/239>24.06.21 Map</a></br><a href=https://codingpracticenote.tistory.com/238>대충 만든 자판</a></br><a href=https://codingpracticenote.tistory.com/237>24.06.20 리액트로 TodoList 관리 페이지 만들기</a></br>
+<a href=https://codingpracticenote.tistory.com/242>햄버거 만들기</a></br><a href=https://codingpracticenote.tistory.com/241>24.06.24 리액트의 Batching이란 무엇인가</a></br><a href=https://codingpracticenote.tistory.com/240>24.06.21 TodoList 페이지 기능추가하기</a></br><a href=https://codingpracticenote.tistory.com/239>24.06.21 Map</a></br><a href=https://codingpracticenote.tistory.com/238>대충 만든 자판</a></br>
