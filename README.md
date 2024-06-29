@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/244>24.06.28 리액트에 리덕스 연결하기</a></br><a href=https://codingpracticenote.tistory.com/243>성격 유형 검사하기</a></br><a href=https://codingpracticenote.tistory.com/242>햄버거 만들기</a></br><a href=https://codingpracticenote.tistory.com/241>24.06.24 리액트의 Batching이란 무엇인가</a></br><a href=https://codingpracticenote.tistory.com/240>24.06.21 TodoList 페이지 기능추가하기</a></br>
+<a href=https://codingpracticenote.tistory.com/245>24.06.29 리덕스로 전역상태값 변경, 사용하기 / action Creator</a></br><a href=https://codingpracticenote.tistory.com/244>24.06.28 리액트에 리덕스 연결하기</a></br><a href=https://codingpracticenote.tistory.com/243>성격 유형 검사하기</a></br><a href=https://codingpracticenote.tistory.com/242>햄버거 만들기</a></br><a href=https://codingpracticenote.tistory.com/241>24.06.24 리액트의 Batching이란 무엇인가</a></br>
