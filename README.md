@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/247>달리기 경주</a></br><a href=https://codingpracticenote.tistory.com/246>개인정보 수집 유효기간</a></br><a href=https://codingpracticenote.tistory.com/245>24.06.29 리덕스로 전역상태값 변경, 사용하기 / action Creator</a></br><a href=https://codingpracticenote.tistory.com/244>24.06.28 리액트에 리덕스 연결하기</a></br><a href=https://codingpracticenote.tistory.com/243>성격 유형 검사하기</a></br>
+<a href=https://codingpracticenote.tistory.com/248>24.07.02 redux로 counter기능 구현하기</a></br><a href=https://codingpracticenote.tistory.com/247>달리기 경주</a></br><a href=https://codingpracticenote.tistory.com/246>개인정보 수집 유효기간</a></br><a href=https://codingpracticenote.tistory.com/245>24.06.29 리덕스로 전역상태값 변경, 사용하기 / action Creator</a></br><a href=https://codingpracticenote.tistory.com/244>24.06.28 리액트에 리덕스 연결하기</a></br>
