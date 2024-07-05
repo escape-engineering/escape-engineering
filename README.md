@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/251>신고 결과 받기</a></br><a href=https://codingpracticenote.tistory.com/250>24.07.03 TodoList페이지에 redux 사용하기</a></br><a href=https://codingpracticenote.tistory.com/249>공원 산책</a></br><a href=https://codingpracticenote.tistory.com/248>24.07.02 redux로 counter기능 구현하기</a></br><a href=https://codingpracticenote.tistory.com/247>달리기 경주</a></br>
+<a href=https://codingpracticenote.tistory.com/252>최댓값과 최소값</a></br><a href=https://codingpracticenote.tistory.com/251>신고 결과 받기</a></br><a href=https://codingpracticenote.tistory.com/250>24.07.03 TodoList페이지에 redux 사용하기</a></br><a href=https://codingpracticenote.tistory.com/249>공원 산책</a></br><a href=https://codingpracticenote.tistory.com/248>24.07.02 redux로 counter기능 구현하기</a></br>
