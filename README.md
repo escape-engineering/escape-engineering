@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/254>JadenCase 문자열 만들기</a></br><a href=https://codingpracticenote.tistory.com/253>24.07.05 react-router-dom으로 페이지 이동 구현하기 / 모든 페이지에 Header, Footer 적용하기</a></br><a href=https://codingpracticenote.tistory.com/252>최댓값과 최소값</a></br><a href=https://codingpracticenote.tistory.com/251>신고 결과 받기</a></br><a href=https://codingpracticenote.tistory.com/250>24.07.03 TodoList페이지에 redux 사용하기</a></br>
+<a href=https://codingpracticenote.tistory.com/255>이진 변환 반복하기</a></br><a href=https://codingpracticenote.tistory.com/254>JadenCase 문자열 만들기</a></br><a href=https://codingpracticenote.tistory.com/253>24.07.05 react-router-dom으로 페이지 이동 구현하기 / 모든 페이지에 Header, Footer 적용하기</a></br><a href=https://codingpracticenote.tistory.com/252>최댓값과 최소값</a></br><a href=https://codingpracticenote.tistory.com/251>신고 결과 받기</a></br>
