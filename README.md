@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/259>24.07.15 Git / Github</a></br><a href=https://codingpracticenote.tistory.com/258>24.07.12 Vite로 리액트 프로젝트 생성하기</a></br><a href=https://codingpracticenote.tistory.com/257>24.07.12 최소공약수와 최대공배수</a></br><a href=https://codingpracticenote.tistory.com/256>24.07.11 json server와 axios를 이용하여 데이터 통신하기</a></br><a href=https://codingpracticenote.tistory.com/255>이진 변환 반복하기</a></br>
+<a href=https://codingpracticenote.tistory.com/260>24.07.16 미니프로젝트 troubleshooting</a></br><a href=https://codingpracticenote.tistory.com/259>24.07.15 Git / Github</a></br><a href=https://codingpracticenote.tistory.com/258>24.07.12 Vite로 리액트 프로젝트 생성하기</a></br><a href=https://codingpracticenote.tistory.com/257>24.07.12 최소공약수와 최대공배수</a></br><a href=https://codingpracticenote.tistory.com/256>24.07.11 json server와 axios를 이용하여 데이터 통신하기</a></br>
