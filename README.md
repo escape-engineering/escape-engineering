@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/264>24.07.18 async try {await} catch() / Promise</a></br><a href=https://codingpracticenote.tistory.com/263>제리_인사</a></br><a href=https://codingpracticenote.tistory.com/262>괄호 회전하기</a></br><a href=https://codingpracticenote.tistory.com/261>24.07.17 미니프로젝트 script, style 모듈 분리하기 / try{...} catch(err){...}</a></br><a href=https://codingpracticenote.tistory.com/260>24.07.16 미니프로젝트 troubleshooting</a></br>
+<a href=https://codingpracticenote.tistory.com/265>n^2 배열 자르기</a></br><a href=https://codingpracticenote.tistory.com/264>24.07.18 async try {await} catch() / Promise</a></br><a href=https://codingpracticenote.tistory.com/263>제리_인사</a></br><a href=https://codingpracticenote.tistory.com/262>괄호 회전하기</a></br><a href=https://codingpracticenote.tistory.com/261>24.07.17 미니프로젝트 script, style 모듈 분리하기 / try{...} catch(err){...}</a></br>
