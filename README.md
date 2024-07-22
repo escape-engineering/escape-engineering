@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/266>24.07.19 미니프로젝트를 마치며</a></br><a href=https://codingpracticenote.tistory.com/265>n^2 배열 자르기</a></br><a href=https://codingpracticenote.tistory.com/264>24.07.18 async try {await} catch() / Promise</a></br><a href=https://codingpracticenote.tistory.com/263>제리_인사</a></br><a href=https://codingpracticenote.tistory.com/262>괄호 회전하기</a></br>
+<a href=https://codingpracticenote.tistory.com/267>24.07.22 JavaScript 문법 종합반 1, 2주차</a></br><a href=https://codingpracticenote.tistory.com/266>24.07.19 미니프로젝트를 마치며</a></br><a href=https://codingpracticenote.tistory.com/265>n^2 배열 자르기</a></br><a href=https://codingpracticenote.tistory.com/264>24.07.18 async try {await} catch() / Promise</a></br><a href=https://codingpracticenote.tistory.com/263>제리_인사</a></br>
