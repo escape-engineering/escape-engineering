@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/271>할인 행사</a></br><a href=https://codingpracticenote.tistory.com/270>24.07.23 This</a></br><a href=https://codingpracticenote.tistory.com/269>24.07.23 콜/스택, 실행 컨텍스트</a></br><a href=https://codingpracticenote.tistory.com/268>24.07.23 변수선언과 데이터 할당 / 불변하다 vs 불변하지 않다.</a></br><a href=https://codingpracticenote.tistory.com/267>24.07.22 JavaScript 문법 종합반 1, 2주차</a></br>
+<a href=https://codingpracticenote.tistory.com/272>24.07.24 콜백지옥 / 동기, 비동기</a></br><a href=https://codingpracticenote.tistory.com/271>할인 행사</a></br><a href=https://codingpracticenote.tistory.com/270>24.07.23 This</a></br><a href=https://codingpracticenote.tistory.com/269>24.07.23 콜/스택, 실행 컨텍스트</a></br><a href=https://codingpracticenote.tistory.com/268>24.07.23 변수선언과 데이터 할당 / 불변하다 vs 불변하지 않다.</a></br>
