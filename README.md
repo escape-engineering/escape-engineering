@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/273>의상</a></br><a href=https://codingpracticenote.tistory.com/272>24.07.24 콜백지옥 / 동기, 비동기</a></br><a href=https://codingpracticenote.tistory.com/271>할인 행사</a></br><a href=https://codingpracticenote.tistory.com/270>24.07.23 This</a></br><a href=https://codingpracticenote.tistory.com/269>24.07.23 콜/스택, 실행 컨텍스트</a></br>
+<a href=https://codingpracticenote.tistory.com/274>앞으로의 알고리즘은 깃허브로</a></br><a href=https://codingpracticenote.tistory.com/273>의상</a></br><a href=https://codingpracticenote.tistory.com/272>24.07.24 콜백지옥 / 동기, 비동기</a></br><a href=https://codingpracticenote.tistory.com/271>할인 행사</a></br><a href=https://codingpracticenote.tistory.com/270>24.07.23 This</a></br>
