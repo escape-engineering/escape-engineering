@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/280>24.07.29 NextJs 페이지 라우팅</a></br><a href=https://codingpracticenote.tistory.com/279>24.07.29 Nextjs로 리액트프로젝트 생성하기</a></br><a href=https://codingpracticenote.tistory.com/278>24.07.26 영화검색페이지 리팩토링하기</a></br><a href=https://codingpracticenote.tistory.com/277>24.07.25 클로저</a></br><a href=https://codingpracticenote.tistory.com/276>24.07.25 클래스</a></br>
+<a href=https://codingpracticenote.tistory.com/281>24.07.29 영화검색사이트 리팩토링</a></br><a href=https://codingpracticenote.tistory.com/280>24.07.29 NextJs 페이지 라우팅</a></br><a href=https://codingpracticenote.tistory.com/279>24.07.29 Nextjs로 리액트프로젝트 생성하기</a></br><a href=https://codingpracticenote.tistory.com/278>24.07.26 영화검색페이지 리팩토링하기</a></br><a href=https://codingpracticenote.tistory.com/277>24.07.25 클로저</a></br>
