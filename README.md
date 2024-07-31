@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/283>24.07.30 use client</a></br><a href=https://codingpracticenote.tistory.com/282>24.07.30 SSR , CSR의 차이 / hydration</a></br><a href=https://codingpracticenote.tistory.com/281>24.07.29 영화검색사이트 리팩토링</a></br><a href=https://codingpracticenote.tistory.com/280>24.07.29 NextJs 페이지 라우팅</a></br><a href=https://codingpracticenote.tistory.com/279>24.07.29 Nextjs로 리액트프로젝트 생성하기</a></br>
+<a href=https://codingpracticenote.tistory.com/284>24.07.31 자바스크립트 팀 프로젝트</a></br><a href=https://codingpracticenote.tistory.com/283>24.07.30 use client</a></br><a href=https://codingpracticenote.tistory.com/282>24.07.30 SSR , CSR의 차이 / hydration</a></br><a href=https://codingpracticenote.tistory.com/281>24.07.29 영화검색사이트 리팩토링</a></br><a href=https://codingpracticenote.tistory.com/280>24.07.29 NextJs 페이지 라우팅</a></br>
