@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/290>24.08.08 리액트 입문주차 시작</a></br><a href=https://codingpracticenote.tistory.com/289>24.08.07 자바스크립트 팀프로젝트 회고</a></br><a href=https://codingpracticenote.tistory.com/288>24.08.06 코드 리팩토링</a></br><a href=https://codingpracticenote.tistory.com/287>24.08.05 팀프로젝트 troubleshooting</a></br><a href=https://codingpracticenote.tistory.com/286>24.08.02 js 팀프로젝트 진행상황 / troubleshooting</a></br>
+<a href=https://codingpracticenote.tistory.com/291>24.08.09 함수 리팩토링 / dialog in react</a></br><a href=https://codingpracticenote.tistory.com/290>24.08.08 리액트 입문주차 시작</a></br><a href=https://codingpracticenote.tistory.com/289>24.08.07 자바스크립트 팀프로젝트 회고</a></br><a href=https://codingpracticenote.tistory.com/288>24.08.06 코드 리팩토링</a></br><a href=https://codingpracticenote.tistory.com/287>24.08.05 팀프로젝트 troubleshooting</a></br>
