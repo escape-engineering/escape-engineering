@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/297>24.08.16 리액트 숙련주차 강의</a></br><a href=https://codingpracticenote.tistory.com/296>24.08.15 챌린지 아티클 -2 / You might not need an effect</a></br><a href=https://codingpracticenote.tistory.com/295>24.08.14 리액트 개념 아티클</a></br><a href=https://codingpracticenote.tistory.com/294>24.08.13 개인과제 리팩토링</a></br><a href=https://codingpracticenote.tistory.com/293>24.08.12 개인과제 리팩토링</a></br>
+<a href=https://codingpracticenote.tistory.com/299>24.08.16 react-router-Dom 설정</a></br><a href=https://codingpracticenote.tistory.com/298>24.08.16 redux 설정하기</a></br><a href=https://codingpracticenote.tistory.com/297>24.08.16 리액트 숙련주차 강의</a></br><a href=https://codingpracticenote.tistory.com/296>24.08.15 챌린지 아티클 -2 / You might not need an effect</a></br><a href=https://codingpracticenote.tistory.com/295>24.08.14 리액트 개념 아티클</a></br>
