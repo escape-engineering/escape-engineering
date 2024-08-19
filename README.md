@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/301>24.08.16 React에서 Supabase 사용하기</a></br><a href=https://codingpracticenote.tistory.com/300>24.08.16 react-router-dom의 부분적 Layout 적용(Outlet)</a></br><a href=https://codingpracticenote.tistory.com/299>24.08.16 react-router-Dom 설정</a></br><a href=https://codingpracticenote.tistory.com/298>24.08.16 redux 설정하기</a></br><a href=https://codingpracticenote.tistory.com/297>24.08.16 리액트 숙련주차 강의</a></br>
+<a href=https://codingpracticenote.tistory.com/302>24.08.19 CRA/Vite없이 리액트 프로젝트 생성하기</a></br><a href=https://codingpracticenote.tistory.com/301>24.08.16 React에서 Supabase 사용하기</a></br><a href=https://codingpracticenote.tistory.com/300>24.08.16 react-router-dom의 부분적 Layout 적용(Outlet)</a></br><a href=https://codingpracticenote.tistory.com/299>24.08.16 react-router-Dom 설정</a></br><a href=https://codingpracticenote.tistory.com/298>24.08.16 redux 설정하기</a></br>
