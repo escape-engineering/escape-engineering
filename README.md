@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/308>24.08.22 yarn vite js react 에 eslint적용하기</a></br><a href=https://codingpracticenote.tistory.com/307>24.08.22 react-test 공부 2 / toHaveStyle, toBeDisabled, getByRole, userEvent</a></br><a href=https://codingpracticenote.tistory.com/306>24.08.21 TDD체험해보기</a></br><a href=https://codingpracticenote.tistory.com/305>24.08.21 react-test 공부1</a></br><a href=https://codingpracticenote.tistory.com/304>24.08.20 개인과제 회고</a></br>
+<a href=https://codingpracticenote.tistory.com/309>24.08.22 Next.js  Layout / metadata</a></br><a href=https://codingpracticenote.tistory.com/308>24.08.22 yarn vite js react 에 eslint적용하기</a></br><a href=https://codingpracticenote.tistory.com/307>24.08.22 react-test 공부 2 / toHaveStyle, toBeDisabled, getByRole, userEvent</a></br><a href=https://codingpracticenote.tistory.com/306>24.08.21 TDD체험해보기</a></br><a href=https://codingpracticenote.tistory.com/305>24.08.21 react-test 공부1</a></br>
