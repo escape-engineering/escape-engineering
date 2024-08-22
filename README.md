@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/306>24.08.21 TDD체험해보기</a></br><a href=https://codingpracticenote.tistory.com/305>24.08.21 react-test 공부1</a></br><a href=https://codingpracticenote.tistory.com/304>24.08.20 개인과제 회고</a></br><a href=https://codingpracticenote.tistory.com/302>24.08.19 CRA/Vite없이 리액트 프로젝트 생성하기</a></br><a href=https://codingpracticenote.tistory.com/301>24.08.16 React에서 Supabase 사용하기</a></br>
+<a href=https://codingpracticenote.tistory.com/307>24.08.22 react-test 공부 2 / toHaveStyle, toBeDisabled, getByRole, userEvent</a></br><a href=https://codingpracticenote.tistory.com/306>24.08.21 TDD체험해보기</a></br><a href=https://codingpracticenote.tistory.com/305>24.08.21 react-test 공부1</a></br><a href=https://codingpracticenote.tistory.com/304>24.08.20 개인과제 회고</a></br><a href=https://codingpracticenote.tistory.com/302>24.08.19 CRA/Vite없이 리액트 프로젝트 생성하기</a></br>
