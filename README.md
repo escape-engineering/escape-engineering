@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/314>24.08.26 챌린지반 아티클 -3 / 자바스크립트의 History API</a></br><a href=https://codingpracticenote.tistory.com/313>24.08.26 Next JS CSS</a></br><a href=https://codingpracticenote.tistory.com/312>24.08.26 Next JS 병렬 fetching / 에러발생페이지</a></br><a href=https://codingpracticenote.tistory.com/311>24.08.26 Next JS Data Fetching / loading</a></br><a href=https://codingpracticenote.tistory.com/310>24.08.23 NextJS 동적라우팅</a></br>
+<a href=https://codingpracticenote.tistory.com/315>24.08.27 react의 useSyncExternalStore 훅 알아보기</a></br><a href=https://codingpracticenote.tistory.com/314>24.08.26 챌린지반 아티클 -3 / 자바스크립트의 History API</a></br><a href=https://codingpracticenote.tistory.com/313>24.08.26 Next JS CSS</a></br><a href=https://codingpracticenote.tistory.com/312>24.08.26 Next JS 병렬 fetching / 에러발생페이지</a></br><a href=https://codingpracticenote.tistory.com/311>24.08.26 Next JS Data Fetching / loading</a></br>
