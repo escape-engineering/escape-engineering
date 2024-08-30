@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/317>24.08.29 팀프로젝트 진행 - Startify</a></br><a href=https://codingpracticenote.tistory.com/316>24.08.28 React Concurrent Feature / useSyncExternalStore</a></br><a href=https://codingpracticenote.tistory.com/315>24.08.27 react의 useSyncExternalStore 훅 알아보기</a></br><a href=https://codingpracticenote.tistory.com/314>24.08.26 챌린지반 아티클 -3 / 자바스크립트의 History API</a></br><a href=https://codingpracticenote.tistory.com/313>24.08.26 Next JS CSS</a></br>
+<a href=https://codingpracticenote.tistory.com/318>24.08.30 팀프로젝트 Startify 진행상황</a></br><a href=https://codingpracticenote.tistory.com/317>24.08.29 팀프로젝트 진행 - Startify</a></br><a href=https://codingpracticenote.tistory.com/316>24.08.28 React Concurrent Feature / useSyncExternalStore</a></br><a href=https://codingpracticenote.tistory.com/315>24.08.27 react의 useSyncExternalStore 훅 알아보기</a></br><a href=https://codingpracticenote.tistory.com/314>24.08.26 챌린지반 아티클 -3 / 자바스크립트의 History API</a></br>
