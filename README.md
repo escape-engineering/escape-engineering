@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/320>24.09.04 팀프로젝트 trouble shooting</a></br><a href=https://codingpracticenote.tistory.com/319>24.09.02 팀프로젝트 진행상황</a></br><a href=https://codingpracticenote.tistory.com/318>24.08.30 팀프로젝트 Startify 진행상황</a></br><a href=https://codingpracticenote.tistory.com/317>24.08.29 팀프로젝트 진행 - Startify</a></br><a href=https://codingpracticenote.tistory.com/316>24.08.28 React Concurrent Feature / useSyncExternalStore</a></br>
+<a href=https://codingpracticenote.tistory.com/321>24.09.04 TIL STARTIFY 팀프로젝트 마무리</a></br><a href=https://codingpracticenote.tistory.com/320>24.09.04 팀프로젝트 trouble shooting</a></br><a href=https://codingpracticenote.tistory.com/319>24.09.02 팀프로젝트 진행상황</a></br><a href=https://codingpracticenote.tistory.com/318>24.08.30 팀프로젝트 Startify 진행상황</a></br><a href=https://codingpracticenote.tistory.com/317>24.08.29 팀프로젝트 진행 - Startify</a></br>
