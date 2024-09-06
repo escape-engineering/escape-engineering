@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/327>24.09.05 tanstack query, tailwind css, zustand, json-server, axios, supabase 프로젝트 세팅</a></br><a href=https://codingpracticenote.tistory.com/326>24.09.05 tanstack query default config</a></br><a href=https://codingpracticenote.tistory.com/325>24.09.05 Tanstack Query 세팅과 사용법</a></br><a href=https://codingpracticenote.tistory.com/324>24.09.05 axios instance interceptor</a></br><a href=https://codingpracticenote.tistory.com/323>24.09.04 json-server / axios DELETE, PATCH</a></br>
+<a href=https://codingpracticenote.tistory.com/328>24.09.06 개인과제 파일 input 트러블슈팅</a></br><a href=https://codingpracticenote.tistory.com/327>24.09.05 tanstack query, tailwind css, zustand, json-server, axios, supabase 프로젝트 세팅</a></br><a href=https://codingpracticenote.tistory.com/326>24.09.05 tanstack query default config</a></br><a href=https://codingpracticenote.tistory.com/325>24.09.05 Tanstack Query 세팅과 사용법</a></br><a href=https://codingpracticenote.tistory.com/324>24.09.05 axios instance interceptor</a></br>
