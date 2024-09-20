@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/333>24.09.19 팀프로젝트 트러블슈팅</a></br><a href=https://codingpracticenote.tistory.com/331>24.09.11 내 state는 꼭 state여야 할까? 개인과제 리팩토링</a></br><a href=https://codingpracticenote.tistory.com/330>24.09.10 개인프로젝트 트러블슈팅 axios instance에 동적으로 데이터 추가하기</a></br><a href=https://codingpracticenote.tistory.com/329>24.09.09 개인프로젝트 / useCustomQuery, QueryKey분리</a></br><a href=https://codingpracticenote.tistory.com/328>24.09.06 개인과제 파일 input 트러블슈팅</a></br>
+<a href=https://codingpracticenote.tistory.com/334>24.09.20 팀프로젝트 진행상황</a></br><a href=https://codingpracticenote.tistory.com/333>24.09.19 팀프로젝트 트러블슈팅</a></br><a href=https://codingpracticenote.tistory.com/331>24.09.11 내 state는 꼭 state여야 할까? 개인과제 리팩토링</a></br><a href=https://codingpracticenote.tistory.com/330>24.09.10 개인프로젝트 트러블슈팅 axios instance에 동적으로 데이터 추가하기</a></br><a href=https://codingpracticenote.tistory.com/329>24.09.09 개인프로젝트 / useCustomQuery, QueryKey분리</a></br>
