@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/342>24.10.08 개인프로젝트 마무리</a></br><a href=https://codingpracticenote.tistory.com/341>24.10.07 nextjs 에러핸들링</a></br><a href=https://codingpracticenote.tistory.com/340>24.10.02 개인프로젝트 트러블슈팅</a></br><a href=https://codingpracticenote.tistory.com/339>24.10.01 트러블 슈팅</a></br><a href=https://codingpracticenote.tistory.com/338>24.09.30 트러블 슈팅</a></br>
+<a href=https://codingpracticenote.tistory.com/343>24.10.10</a></br><a href=https://codingpracticenote.tistory.com/342>24.10.08 개인프로젝트 마무리</a></br><a href=https://codingpracticenote.tistory.com/341>24.10.07 nextjs 에러핸들링</a></br><a href=https://codingpracticenote.tistory.com/340>24.10.02 개인프로젝트 트러블슈팅</a></br><a href=https://codingpracticenote.tistory.com/339>24.10.01 트러블 슈팅</a></br>
