@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/346>24.10.15 tailwind에서 제공하지 않는 style속성 사용하기</a></br><a href=https://codingpracticenote.tistory.com/345>24.10.14 supabase.insert, promise.all과 transaction</a></br><a href=https://codingpracticenote.tistory.com/344>24.10.11 react에서 리스트 매핑중 key를 사용해야하는 이유</a></br><a href=https://codingpracticenote.tistory.com/343>24.10.10</a></br><a href=https://codingpracticenote.tistory.com/342>24.10.08 개인프로젝트 마무리</a></br>
+<a href=https://codingpracticenote.tistory.com/347>24.10.19 NextJS react-hook-form</a></br><a href=https://codingpracticenote.tistory.com/346>24.10.15 tailwind에서 제공하지 않는 style속성 사용하기</a></br><a href=https://codingpracticenote.tistory.com/345>24.10.14 supabase.insert, promise.all과 transaction</a></br><a href=https://codingpracticenote.tistory.com/344>24.10.11 react에서 리스트 매핑중 key를 사용해야하는 이유</a></br><a href=https://codingpracticenote.tistory.com/342>24.10.08 개인프로젝트 마무리</a></br>
