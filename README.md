@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://codingpracticenote.tistory.com/349>24.10.22 supabase OAuth 관련 에러 수정</a></br><a href=https://codingpracticenote.tistory.com/348>24.10.20 NextJS react-hook-form Zod</a></br><a href=https://codingpracticenote.tistory.com/347>24.10.19 NextJS react-hook-form</a></br><a href=https://codingpracticenote.tistory.com/346>24.10.15 tailwind에서 제공하지 않는 style속성 사용하기</a></br><a href=https://codingpracticenote.tistory.com/345>24.10.14 supabase.insert, promise.all과 transaction</a></br>
+<a href=https://codingpracticenote.tistory.com/350>말이안되는 요청코드 rpc로 쉽게? 해결하기</a></br><a href=https://codingpracticenote.tistory.com/349>24.10.22 supabase OAuth 관련 에러 수정</a></br><a href=https://codingpracticenote.tistory.com/348>24.10.20 NextJS react-hook-form Zod</a></br><a href=https://codingpracticenote.tistory.com/347>24.10.19 NextJS react-hook-form</a></br><a href=https://codingpracticenote.tistory.com/346>24.10.15 tailwind에서 제공하지 않는 style속성 사용하기</a></br>
